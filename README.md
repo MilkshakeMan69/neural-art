@@ -129,30 +129,6 @@ list:
 * [SciPy](https://github.com/scipy/scipy/blob/master/INSTALL.rst.txt)
 * [Pillow](http://pillow.readthedocs.io/en/3.3.x/installation.html#installation)
 
-## Citation
 
-If you use this implementation in your work, please cite the following:
 
-```
-@misc{athalye2015neuralstyle,
-  author = {Anish Athalye},
-  title = {Neural Style},
-  year = {2015},
-  howpublished = {\url{https://github.com/anishathalye/neural-style}},
-  note = {commit xxxxxxx}
-}
-```
-
-## License
-
-Copyright (c) 2015-2021 Anish Athalye. Released under GPLv3. See
-[LICENSE.txt][license] for details.
-
-[net]: https://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat
-[paper]: http://arxiv.org/pdf/1508.06576v2.pdf
-[l-bfgs]: https://en.wikipedia.org/wiki/Limited-memory_BFGS
-[adam]: http://arxiv.org/abs/1412.6980
-[ad]: https://en.wikipedia.org/wiki/Automatic_differentiation
-[lengstrom-fast-style-transfer]: https://github.com/lengstrom/fast-style-transfer
-[fast-neural-style]: https://arxiv.org/pdf/1603.08155v1.pdf
 
