@@ -155,4 +155,4 @@ Copyright (c) 2015-2021 Anish Athalye. Released under GPLv3. See
 [ad]: https://en.wikipedia.org/wiki/Automatic_differentiation
 [lengstrom-fast-style-transfer]: https://github.com/lengstrom/fast-style-transfer
 [fast-neural-style]: https://arxiv.org/pdf/1603.08155v1.pdf
-[license]: LICENSE.txt
+
