@@ -1,12 +1,12 @@
 # neural-style [![Build Status](https://github.com/anishathalye/neural-style/workflows/CI/badge.svg)](https://github.com/anishathalye/neural-style/actions?query=workflow%3ACI)
 
-An implementation of [neural style][paper] in TensorFlow.
+An implementation of neural style in TensorFlow.
 
 This implementation is a lot simpler than a lot of the other ones out there,
-thanks to TensorFlow's really nice API and [automatic differentiation][ad].
+thanks to TensorFlow's really nice API and automatic differentiation
 
-TensorFlow doesn't support [L-BFGS][l-bfgs] (which is what the original authors
-used), so we use [Adam][adam]. This may require a little bit more
+TensorFlow doesn't support L-BFGS (which is what the original authors
+used), so we use Adam. This may require a little bit more
 hyperparameter tuning to get nice results.
 
 ## Related Projects
